@@ -1,0 +1,9 @@
+<Event title="Concert" date="2023-04-24T18:30:00" price="30.0">
+  <member>
+    <member>
+      <firstname>Bob</firstname>
+      <lastname>Sull</lastname>
+      <status>VIP</status>
+    </member>
+  </member>
+</Event>
